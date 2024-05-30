@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Komal93singh/Komal93singh** is a ✨ _special_ ✨ repository because its `README.md` (Komal93singh) appears on your GitHub profile.
+**Komal93singh** is a ✨ _special_ ✨ repository because its `README.md` (Komal93singh) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Komal</h1>
 <h3 align="center">A Passionate Data Scientist from India</h3>
 
@@ -19,13 +18,13 @@
 
 - 💬 Ask me about **Python, Machine Learning , Deep Learning, Computer Vision, Natural language Processing, Power BI, MS Excel, MS Word, **
 
--👨🏻‍💻 Portfolio
+- 👨🏻‍💻 Portfolio
 
-- 📫 How to reach me **komal93singh@gmail.com**, **https://www.linkedin.com/in/komal-b61580158/**
+- 📫 How to reach me **https://komal93singh@gmail.com/**, **https://www.linkedin.com/in/komal-b61580158/**
 
---><h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="komal93singh@gmail.com" target="blank"><img align="center" src="https://https://www.linkedin.com/in/komal-b61580158/ height="30" width="40"/></a>
+<a href="https://komal93singh@gmail.com/" target="blank"><img align="center" src="https://www.linkedin.com/in/komal-b61580158/ height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
