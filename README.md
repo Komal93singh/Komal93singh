@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science Domain**
 
-- 👩💻All of my Repository ara available at  [https://https://github.com/Komal93singh](https://https://github.com/Komal93singh)
+- 👩💻All of my Repository ara available at  [https://github.com/Komal93singh](https://https://github.com/Komal93singh)
 
-- 👨‍💻 All of my projects are available at [https://https://github.com/Komal93singh](https://https://github.com/Komal93singh)
+- 👨‍💻 All of my projects are available at [https://github.com/Komal93singh](https://https://github.com/Komal93singh)
 
 - 💬 Ask me about **Python, Machine Learning , Deep Learning, Computer Vision, Natural language Processing, Power BI, MS Excel, MS Word, **
 
