@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Komal93singh&label=Profile%20views&color=0e75b6&style=flat" alt="Komal93singh" /> </p>
 
-- 🔭 I’m currently looking for **Data Scientist Internship|Job**
+- 🔭 I’m currently looking for **Data Scientist Job**
 
 - 🌱 I’m currently learning **Python, Machine Learning ,Advance Computer Vision and Natural language Processing**
 
